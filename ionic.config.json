@@ -1,4 +1,7 @@
 {
   "name": "DC News App",
-  "app_id": "4f9a487a"
+  "app_id": "4f9a487a",
+  "integrations": {},
+  "type": "ionic1",
+  "watchPatterns": []
 }
